@@ -1,0 +1,4 @@
+pytest
+fuzzywuzzy
+tabulate
+mock

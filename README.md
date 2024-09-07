@@ -49,7 +49,7 @@ pip install -r requirements.txt
 To run the main application and test the menu system:
 
 ```
-python restaurant/main.py
+python3 restaurant/main.py
 ```
 This will run the interactive menu system where you can browse dishes, place orders, and receive suggestions for pairings.
 
@@ -59,6 +59,4 @@ The project includes a comprehensive suite of tests using `pytest`. To run all t
 ```
 pytest
 ```
-This will execute the test suite located in the `restaurant/tests/` directory, which includes tests for all the main components (`Menu`, `Node`, `Order`, and application logic in `main.py`).
-
-# restaurant-graph
+This will execute the test suite located in the `restaurant/tests/` directory, which includes tests for all the main components (Menu, Node, Order, and application logic in `main.py`).
