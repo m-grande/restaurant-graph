@@ -38,6 +38,7 @@ The system consists of various components such as nodes (representing dishes), a
 
 ```
 git clone https://github.com/m-grande/restaurant-graph.git
+cd restaurant-graph
 ```
 
 2. Install the required dependencies:
@@ -57,6 +58,6 @@ This will run the interactive menu system where you can browse dishes, place ord
 The project includes a comprehensive suite of tests using `pytest`. To run all tests:
 
 ```
-pytest
+pytest -v
 ```
 This will execute the test suite located in the `restaurant/tests/` directory, which includes tests for all the main components (Menu, Node, Order, and application logic in `main.py`).
