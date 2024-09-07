@@ -37,7 +37,7 @@ The system consists of various components such as nodes (representing dishes), a
 1. Clone the repository:
 
 ```
-git clone https://github.com/m-grande/restaurant.git
+git clone https://github.com/m-grande/restaurant-graph.git
 ```
 
 2. Install the required dependencies:
